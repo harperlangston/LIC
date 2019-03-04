@@ -2,7 +2,9 @@
 Line Integral Convolution Code based on the work of Cabral and Leedom: http://cs.brown.edu/courses/csci2370/2000/1999/cabral.pdf
 
 Some old results: http://harperlangston.com/stokes/
-//////////////////////////////////////////////////////
+
+
+DESCRIPTION:
 
 There are two programs here:  rand and main.  By default,
 make makes main which runs the LIC.  PLus, there's a
@@ -80,6 +82,7 @@ I'll describe the rand program first however
 	See http://tns-www.lcs.mit.edu/manuals/mpeg2/
  	for information.
 
-////////////////////////////////////////////////////////////////////
+
+
 	
 	
